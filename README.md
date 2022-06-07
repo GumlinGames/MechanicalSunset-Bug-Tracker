@@ -1,4 +1,4 @@
-# MechanicalSunset-Bug-Tracker
+# Mechanical Sunset Bug Tracker
 
 Public Bug Tracker for Mechanical Sunset.
 
